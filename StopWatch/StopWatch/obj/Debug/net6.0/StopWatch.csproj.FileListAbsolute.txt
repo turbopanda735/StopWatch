@@ -1,0 +1,15 @@
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.exe
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.dll
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.dll
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\refint\StopWatch.dll
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
+E:\repos\classes exercises\stop watch\StopWatch\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
